@@ -134,12 +134,12 @@ This project is implemented in Python and requires **Python 3.8 or higher**. You
 
 ## Citation
 The related work has been presented at 
-- [ASCO 2014 (CRC)](https://ascopubs.org/doi/abs/10.1200/JCO.2024.42.16_suppl.10547)
-- [AACR 2015 (EFM)](https://aacrjournals.org/cancerres/article/85/8_Supplement_1/3712/757105)
-- [AACR 2015 (HCC)](https://aacrjournals.org/cancerres/article/85/8_Supplement_1/4577/760270)
-- [ASCO 2015 (HCC+Cirrhosis+HBV)](https://ascopubs.org/doi/abs/10.1200/JCO.2025.43.16_suppl.4136)
-- [ASCO 2015 (LungCancer)](https://ascopubs.org/doi/abs/10.1200/JCO.2025.43.16_suppl.8057)
-- ESMO-Asia 2015 (Fragmentomics). 
+- [ASCO 2024](https://ascopubs.org/doi/abs/10.1200/JCO.2024.42.16_suppl.10547): MAPLE enhances the detection performance of colorectal carcinoma.
+- [AACR 2025](https://aacrjournals.org/cancerres/article/85/8_Supplement_1/3712/757105): The Enrich-factor Model enables precise estimation of tumor fraction in cfDNA.
+- [AACR 2025](https://aacrjournals.org/cancerres/article/85/8_Supplement_1/4577/760270): MAPLE improves the detection accuracy of hepatocellular carcinoma.
+- [ASCO 2025](https://ascopubs.org/doi/abs/10.1200/JCO.2025.43.16_suppl.4136): MAPLE integrates human and HBV cfDNA signals to detect HCC and distinguish cirrhosis.
+- [ASCO 2025](https://ascopubs.org/doi/abs/10.1200/JCO.2025.43.16_suppl.8057): MAPLE enhances lung cancer detection and enables molecular subtyping of adenocarcinoma and squamous carcinoma.
+- ESMO-Asia 2015 : MAPLE anchors methylation haplotypes through fragmentomic signal enrichment.
 
 The full academic paper is currently under review.
 

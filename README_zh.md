@@ -135,12 +135,12 @@ Boost-Tree 分类器使用 **梯度提升树（LightGBM）**，根据富集的�
 
 ## 引用
 相关工作已在如下会议上展示：
-- [ASCO 2014 (CRC)](https://ascopubs.org/doi/abs/10.1200/JCO.2024.42.16_suppl.10547)
-- [AACR 2015 (EFM)](https://aacrjournals.org/cancerres/article/85/8_Supplement_1/3712/757105)
-- [AACR 2015 (HCC)](https://aacrjournals.org/cancerres/article/85/8_Supplement_1/4577/760270)
-- [ASCO 2015 (HCC+Cirrhosis+HBV)](https://ascopubs.org/doi/abs/10.1200/JCO.2025.43.16_suppl.4136)
-- [ASCO 2015 (LungCancer)](https://ascopubs.org/doi/abs/10.1200/JCO.2025.43.16_suppl.8057)
-- ESMO-Asia 2015 (Fragmentomics). 
+- [ASCO 2024](https://ascopubs.org/doi/abs/10.1200/JCO.2024.42.16_suppl.10547)：MAPLE 提升了结直肠癌的检测性能。
+- [AACR 2025](https://aacrjournals.org/cancerres/article/85/8_Supplement_1/3712/757105)：Enrich-factor 模型实现了循环游离 DNA 中肿瘤含量的精确估算。
+- [AACR 2025](https://aacrjournals.org/cancerres/article/85/8_Supplement_1/4577/760270)：MAPLE 提高了肝细胞癌的检测准确性。
+- [ASCO 2025](https://ascopubs.org/doi/abs/10.1200/JCO.2025.43.16_suppl.4136)：MAPLE 整合人源与 HBV cfDNA 信号，实现了对肝癌及肝硬化的区分检测。
+- [ASCO 2025](https://ascopubs.org/doi/abs/10.1200/JCO.2025.43.16_suppl.8057)：MAPLE 提升了肺癌的检测能力，并实现腺癌与鳞癌的分型鉴别。
+- ESMO-Asia 2025：MAPLE 通过甲基化单倍型的锚定实现了对片段组学信号的富集。
 
 学术论文正在审稿中。
 
