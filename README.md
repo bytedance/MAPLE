@@ -134,7 +134,7 @@ This project is implemented in Python and requires **Python 3.8 or higher**. You
 
 ## Citation
 
-The full academic paper is currently under review.
+MAPLE enables ultra-sensitive detection of low-frequency cfDNA methylation haplotypes using short capture probes with cost-efficient performance.(in press, doi:10.1101/gr.280736.125)
 
 
 ## License
