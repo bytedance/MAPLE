@@ -135,8 +135,7 @@ Boost-Tree 分类器使用 **梯度提升树（LightGBM）**，根据富集的�
 
 ## 引用
 
-MAPLE enables ultra-sensitive detection of low-frequency cfDNA methylation haplotypes using short capture probes with cost-efficient performance.(in press, doi:10.1101/gr.280736.125)
-
+MAPLE enables ultra-sensitive detection of low-frequency cfDNA methylation haplotypes using short capture probes with cost-efficient performance.(in press,https://doi.org/10.1101/gr.280736.125)
 
 ## 许可
 本项目采用 [GPL-3.0-or-later](LICENSE) 许可证 - 详情见 LICENSE 文件。
